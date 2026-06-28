@@ -1,5 +1,5 @@
-# repo template
+# ✶ MAKER (STARMAKER)
 
-description
+Star pattern visualization generator
 
-[tmpl.timagineer.com](https://tmpl.timagineer.com)
+[starmaker.timagineer.com](https://starmaker.timagineer.com)
